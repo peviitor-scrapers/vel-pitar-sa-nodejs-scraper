@@ -31,6 +31,26 @@ let COMPANY_NAME = null;
 
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
 
+async function fetchWithRetry(url, options = {}, { retries = 3, baseDelayMs = 1000, retryable = () => true } = {}) {
+  let lastError;
+  for (let attempt = 1; attempt <= retries; attempt++) {
+    try {
+      const res = await fetch(url, { timeout: TIMEOUT, ...options });
+      if (res.ok || attempt === retries || !retryable(res)) {
+        return res;
+      }
+      lastError = new Error(`${url} returned ${res.status}`);
+    } catch (err) {
+      lastError = err;
+      if (attempt === retries) throw err;
+    }
+    const delay = baseDelayMs * Math.pow(2, attempt - 1);
+    console.log(`  Retrying ${url} (attempt ${attempt}/${retries}) in ${delay}ms — ${lastError.message}`);
+    await sleep(delay);
+  }
+  throw lastError;
+}
+
 async function searchANOFM(cif) {
   const jobs = [];
   try {
@@ -91,7 +111,7 @@ function cleanTitle(rendered) {
 
 async function fetchCategories() {
   const url = `${JOB_BASE}/wp-json/wp/v2/categories?per_page=100&_fields=id,name,slug&hide_empty=false`;
-  const res = await fetch(url, {
+  const res = await fetchWithRetry(url, {
     headers: {
       "User-Agent": "job_seeker_ro_spider",
       "Accept": "application/json"
@@ -109,12 +129,12 @@ async function fetchCategories() {
 async function fetchJobsPage(pageNum) {
   const url = `${JOB_BASE}/wp-json/wp/v2/posts?categories=${CAREER_CATEGORY_ID}&per_page=${PAGE_SIZE}&page=${pageNum}&_fields=id,link,title,categories`;
 
-  const res = await fetch(url, {
+  const res = await fetchWithRetry(url, {
     headers: {
       "User-Agent": "job_seeker_ro_spider",
       "Accept": "application/json"
     }
-  });
+  }, { retryable: (response) => response.status !== 400 });
 
   const total = parseInt(res.headers.get("x-wp-total") || "0", 10);
 
