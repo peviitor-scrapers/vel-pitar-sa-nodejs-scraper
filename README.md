@@ -37,7 +37,7 @@ Proiectul automatizează colectarea zilnică a job-urilor VEL PITAR din România
 
 ## License
 
-Copyright (c) 2024-2026 BOGA SEBASTIAN-NICOLAE
+Copyright (c) 2024-2026 Florin Bighiu
 
 Licensed under the [MIT License](LICENSE).
 
