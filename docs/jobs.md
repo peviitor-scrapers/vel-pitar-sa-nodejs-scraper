@@ -10,11 +10,11 @@
 | Location | JUD. VÂLCEA, MUN. RÂMNICU VÂLCEA, STR. TIMIS, NR.22, ET.P |
 | Website | [https://www.velpitar.ro](https://www.velpitar.ro) |
 | Careers | [https://velpitar.ro/cariere-vel-pitar/](https://velpitar.ro/cariere-vel-pitar/) |
-| Last Scraped | 2026-08-13 |
+| Last Scraped | 2026-08-14 |
 
 ## Current Job Listings (28)
 
-_Generated: 2026-08-13T07:06:42.212Z_
+_Generated: 2026-08-14T07:02:59.593Z_
 
 ### Șofer distributie – Brașov
 
