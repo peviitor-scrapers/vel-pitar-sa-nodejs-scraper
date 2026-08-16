@@ -7,11 +7,11 @@
 | CIF | 21229091 |
 | Brand | Vel Pitar |
 | Status | activ |
-| Location | Râmnicu Vâlcea |
+| Location | JUD. VÂLCEA, MUN. RÂMNICU VÂLCEA, STR. TIMIS, NR.22, ET.P |
 | Website | [https://www.velpitar.ro](https://www.velpitar.ro) |
 | Careers | [https://velpitar.ro/cariere-vel-pitar/](https://velpitar.ro/cariere-vel-pitar/) |
-| Last Scraped | 2026-08-15 |
+| Last Scraped | 2026-08-16 |
 
 ## Current Job Listings (0)
 
-_Generated: 2026-08-15T06:16:52.561Z_
+_Generated: 2026-08-16T06:17:43.141Z_
