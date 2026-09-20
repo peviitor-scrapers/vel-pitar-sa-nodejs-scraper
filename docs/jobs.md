@@ -10,11 +10,11 @@
 | Location | JUD. VÂLCEA, MUN. RÂMNICU VÂLCEA, STR. TIMIS, NR.22, ET.P |
 | Website | [https://www.velpitar.ro](https://www.velpitar.ro) |
 | Careers | [https://velpitar.ro/cariere-vel-pitar/](https://velpitar.ro/cariere-vel-pitar/) |
-| Last Scraped | 2026-09-18 |
+| Last Scraped | 2026-09-20 |
 
 ## Current Job Listings (1)
 
-_Generated: 2026-09-18T10:07:49.411Z_
+_Generated: 2026-09-20T10:10:47.611Z_
 
 ### TEHNICIAN LABORANT ANALIZE PRODUSE ALIMENTARE
 
