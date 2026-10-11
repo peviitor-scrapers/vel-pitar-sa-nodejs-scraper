@@ -10,11 +10,11 @@
 | Location | JUD. VÂLCEA, MUN. RÂMNICU VÂLCEA, STR. TIMIS, NR.22, ET.P |
 | Website | [https://www.velpitar.ro](https://www.velpitar.ro) |
 | Careers | [https://velpitar.ro/cariere-vel-pitar/](https://velpitar.ro/cariere-vel-pitar/) |
-| Last Scraped | 2026-10-10 |
+| Last Scraped | 2026-10-11 |
 
-## Current Job Listings (7)
+## Current Job Listings (6)
 
-_Generated: 2026-10-10T11:27:31.620Z_
+_Generated: 2026-10-11T11:40:43.780Z_
 
 ### OPERATOR LA FABRICAREA PRODUSELOR FAINOASE
 
@@ -50,10 +50,4 @@ _Generated: 2026-10-10T11:27:31.620Z_
 
 - **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3397558](https://mediere.anofm.ro/app/module/mediere/job/3397558)
 - **Location:** CHITILA
-- **Status:** scraped
-
-### TEHNICIAN LABORANT ANALIZE PRODUSE ALIMENTARE
-
-- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3382983](https://mediere.anofm.ro/app/module/mediere/job/3382983)
-- **Location:** România
 - **Status:** scraped
