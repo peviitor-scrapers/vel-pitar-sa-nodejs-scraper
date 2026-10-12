@@ -10,11 +10,29 @@
 | Location | JUD. VÂLCEA, MUN. RÂMNICU VÂLCEA, STR. TIMIS, NR.22, ET.P |
 | Website | [https://www.velpitar.ro](https://www.velpitar.ro) |
 | Careers | [https://velpitar.ro/cariere-vel-pitar/](https://velpitar.ro/cariere-vel-pitar/) |
-| Last Scraped | 2026-10-11 |
+| Last Scraped | 2026-10-12 |
 
-## Current Job Listings (6)
+## Current Job Listings (9)
 
-_Generated: 2026-10-11T11:40:43.780Z_
+_Generated: 2026-10-12T13:38:33.236Z_
+
+### LUCRATOR GESTIONAR
+
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3415347](https://mediere.anofm.ro/app/module/mediere/job/3415347)
+- **Location:** DUMBRAVITA
+- **Status:** scraped
+
+### SEF FORMATIE
+
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3415332](https://mediere.anofm.ro/app/module/mediere/job/3415332)
+- **Location:** DUMBRAVITA
+- **Status:** scraped
+
+### GESTIONAR DEPOZIT
+
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3415294](https://mediere.anofm.ro/app/module/mediere/job/3415294)
+- **Location:** DUMBRAVITA
+- **Status:** scraped
 
 ### OPERATOR LA FABRICAREA PRODUSELOR FAINOASE
 
