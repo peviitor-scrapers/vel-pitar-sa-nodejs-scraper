@@ -10,11 +10,11 @@
 | Location | JUD. VÂLCEA, MUN. RÂMNICU VÂLCEA, STR. TIMIS, NR.22, ET.P |
 | Website | [https://www.velpitar.ro](https://www.velpitar.ro) |
 | Careers | [https://velpitar.ro/cariere-vel-pitar/](https://velpitar.ro/cariere-vel-pitar/) |
-| Last Scraped | 2026-10-15 |
+| Last Scraped | 2026-10-17 |
 
 ## Current Job Listings (8)
 
-_Generated: 2026-10-15T10:25:54.596Z_
+_Generated: 2026-10-17T09:47:01.029Z_
 
 ### LUCRATOR GESTIONAR
 
