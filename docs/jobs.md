@@ -10,11 +10,23 @@
 | Location | JUD. VÂLCEA, MUN. RÂMNICU VÂLCEA, STR. TIMIS, NR.22, ET.P |
 | Website | [https://www.velpitar.ro](https://www.velpitar.ro) |
 | Careers | [https://velpitar.ro/cariere-vel-pitar/](https://velpitar.ro/cariere-vel-pitar/) |
-| Last Scraped | 2026-10-23 |
+| Last Scraped | 2026-10-24 |
 
-## Current Job Listings (8)
+## Current Job Listings (10)
 
-_Generated: 2026-10-23T10:35:37.790Z_
+_Generated: 2026-10-24T09:53:28.244Z_
+
+### AGENT SERVICII CLIENT
+
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3427124](https://mediere.anofm.ro/app/module/mediere/job/3427124)
+- **Location:** DUMBRAVITA
+- **Status:** scraped
+
+### MASINIST LA MASINI DE AMBALAT
+
+- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3426910](https://mediere.anofm.ro/app/module/mediere/job/3426910)
+- **Location:** DUMBRAVITA
+- **Status:** scraped
 
 ### LUCRATOR GESTIONAR
 
