@@ -10,11 +10,11 @@
 | Location | JUD. VÂLCEA, MUN. RÂMNICU VÂLCEA, STR. TIMIS, NR.22, ET.P |
 | Website | [https://www.velpitar.ro](https://www.velpitar.ro) |
 | Careers | [https://velpitar.ro/cariere-vel-pitar/](https://velpitar.ro/cariere-vel-pitar/) |
-| Last Scraped | 2026-10-26 |
+| Last Scraped | 2026-10-27 |
 
-## Current Job Listings (10)
+## Current Job Listings (9)
 
-_Generated: 2026-10-26T11:39:01.543Z_
+_Generated: 2026-10-27T11:08:22.950Z_
 
 ### AGENT SERVICII CLIENT
 
@@ -37,12 +37,6 @@ _Generated: 2026-10-26T11:39:01.543Z_
 ### SEF FORMATIE
 
 - **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3415332](https://mediere.anofm.ro/app/module/mediere/job/3415332)
-- **Location:** DUMBRAVITA
-- **Status:** scraped
-
-### GESTIONAR DEPOZIT
-
-- **URL:** [https://mediere.anofm.ro/app/module/mediere/job/3415294](https://mediere.anofm.ro/app/module/mediere/job/3415294)
 - **Location:** DUMBRAVITA
 - **Status:** scraped
 
