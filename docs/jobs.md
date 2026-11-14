@@ -14,7 +14,7 @@
 
 ## Current Job Listings (2)
 
-_Generated: 2026-11-14T12:35:27.776Z_
+_Generated: 2026-11-14T15:07:45.378Z_
 
 ### MASINIST LA MASINI DE AMBALAT
 
