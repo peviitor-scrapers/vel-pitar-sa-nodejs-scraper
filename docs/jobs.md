@@ -10,11 +10,11 @@
 | Location | JUD. VÂLCEA, MUN. RÂMNICU VÂLCEA, STR. TIMIS, NR.22, ET.P |
 | Website | [https://www.velpitar.ro](https://www.velpitar.ro) |
 | Careers | [https://velpitar.ro/cariere-vel-pitar/](https://velpitar.ro/cariere-vel-pitar/) |
-| Last Scraped | 2026-11-20 |
+| Last Scraped | 2026-11-21 |
 
 ## Current Job Listings (2)
 
-_Generated: 2026-11-20T14:27:29.146Z_
+_Generated: 2026-11-21T13:46:43.455Z_
 
 ### MASINIST LA MASINI DE AMBALAT
 
